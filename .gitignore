@@ -1,0 +1,11 @@
+.vs/
+.idea/
+bin/
+build/
+cmake-build-*/
+compile_commands.json
+.cache/
+out/
+vcpkg_installed
+build/
+CMakeFiles/
